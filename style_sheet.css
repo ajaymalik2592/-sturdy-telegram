@@ -1,0 +1,122 @@
+/*<link href="https://fonts.googleapis.com/css?family=Asap+Condensed:400,500,700&display=swap" rel="stylesheet">
+*/#div_style{
+	box-sizing : border-box;
+	border :solid 2px #5E5E5E;
+	background-color: #56AF50;
+	text-align : center;
+	border-collapse: collapse;
+	width:20%;
+	height:8%;
+	float:left;
+	vertical-align : middle;
+	font-size: 20px;
+	padding : 3px;
+
+}
+a
+{
+	color : #FFFFFF;
+}
+body
+{
+	background-color : #A9E7F6;
+}
+.sideList{
+	background-color: #8DE4AF;
+	box-sizing : border-box;
+	border :solid 2px #5E5E5E;
+	text-align : center;
+	width:15%;
+	height:75%;
+	float:left;
+	font-size: 20px;
+	padding : 3px;
+	border-collapse: collapse;
+}
+#sideleft{
+	height:20%;
+	padding : 6px;
+	
+	}
+
+
+.id{
+	background-color : blue;
+	height: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+#span_format1{
+	color : red;
+	font-size: 20px;
+
+}
+#span_format{
+	color : red;
+	
+}
+
+.col1{
+	float: left;
+	  width: 48%;
+	  height: 500px;	
+	  text-align: right;	
+/*	  font-size: 15px;
+*/	  color :red;	
+	  
+
+	}
+.col2{
+	float: right;
+	  width: 52%;
+	  height: 500px;	
+	  text-align: left;		
+/*	  font-size: 15px;
+*/	}
+#script1
+{
+	color:red;
+	font-size: 17px;
+	background-color: yellow;
+
+	}
+#half-left
+{
+	float : left;
+	  width: 50%;
+	  
+/*	  font-size: 15px;
+*/	  color :red;	
+	  -moz-box-sizing:content-box;
+
+}
+#half-right
+{
+	float: left;
+	text-align:center;
+	  width: 50%;
+	 
+	  
+}
+#login-style
+{
+	float:center;
+/*	font-size:20px;
+*/	text-decoration:none;
+	border: 0px solid blue;
+	border-radius : 5px ;
+	background-color: #2FBEFC;
+
+	
+
+}
+#login-style:hover{
+	color : yellow;
+	background-color:#A9E7F6;
+	border:0px solid #A9E7F6;
+
+}
+#fullwidth{
+	width :100%;
+}
